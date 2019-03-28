@@ -32,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/notebooks/main.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="5" />
+              <selected id="7" />
             </state>
           </provider>
         </entry>
@@ -226,6 +226,38 @@
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
@@ -293,7 +325,7 @@
     <entry file="file://$PROJECT_DIR$/notebooks/main.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="5" />
+          <selected id="7" />
         </state>
       </provider>
     </entry>
