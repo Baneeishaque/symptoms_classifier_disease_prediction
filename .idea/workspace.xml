@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16090274-5099-4dad-8dc6-63b4c50813a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/srf.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/main.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notebooks/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/main.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/notebooks/main.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="8" />
+              <selected id="5" />
             </state>
           </provider>
         </entry>
@@ -56,7 +55,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="dev" />
       </map>
     </option>
     <excluded-from-favorite>
@@ -181,6 +180,9 @@
       <module name="symptoms_classifier_disease_prediction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -201,7 +203,7 @@
     <frame x="-4" y="-4" width="1374" height="732" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29229608" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2968278" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -263,16 +265,7 @@
         <state relative-caret-position="-2294" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/t.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="35760">
-            <caret line="1200" column="27" selection-start-line="1200" selection-start-column="27" selection-end-line="1200" selection-end-column="27" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/t.md" />
     <entry file="file://$PROJECT_DIR$/notebooks/Dictionary_Demo.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -300,7 +293,7 @@
     <entry file="file://$PROJECT_DIR$/notebooks/main.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="8" />
+          <selected id="5" />
         </state>
       </provider>
     </entry>
