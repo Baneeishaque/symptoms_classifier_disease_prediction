@@ -2,7 +2,7 @@
 import pandas as pd
 from collections import defaultdict
 
-df = pd.read_excel('raw_data.xlsx')
+df = pd.read_excel('data/raw_data.xlsx')
 print('The data is ...')
 print(df.head())
 
