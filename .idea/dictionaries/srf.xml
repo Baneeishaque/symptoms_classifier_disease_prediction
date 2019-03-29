@@ -2,6 +2,7 @@
   <dictionary name="srf">
     <words>
       <w>dataset</w>
+      <w>defaultdict</w>
       <w>ffill</w>
       <w>xlsx</w>
     </words>
