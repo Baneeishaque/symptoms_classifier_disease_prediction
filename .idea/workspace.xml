@@ -19,7 +19,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1416">
+            <state relative-caret-position="1440">
               <caret line="60" selection-start-line="60" selection-end-line="69" selection-end-column="19" />
               <folding>
                 <element signature="e#22#41#0" expanded="true" />
@@ -32,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/notebooks/main.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="7" />
+              <selected id="8" />
             </state>
           </provider>
         </entry>
@@ -57,6 +57,9 @@
       <map>
         <entry key="$PROJECT_DIR$" value="dev" />
       </map>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
     </option>
     <excluded-from-favorite>
       <branch-storage>
@@ -314,7 +317,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1416">
+        <state relative-caret-position="1440">
           <caret line="60" selection-start-line="60" selection-end-line="69" selection-end-column="19" />
           <folding>
             <element signature="e#22#41#0" expanded="true" />
@@ -322,10 +325,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/symptoms.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1187" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/notebooks/main.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="7" />
+          <selected id="8" />
         </state>
       </provider>
     </entry>
