@@ -4,8 +4,12 @@
       <w>dataset</w>
       <w>defaultdict</w>
       <w>ffill</w>
+      <w>kfold</w>
+      <w>liblinear</w>
       <w>scikit</w>
       <w>xlsx</w>
+      <w>xnew</w>
+      <w>ynew</w>
     </words>
   </dictionary>
 </component>
