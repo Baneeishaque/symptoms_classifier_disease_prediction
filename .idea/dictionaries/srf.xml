@@ -4,6 +4,8 @@
       <w>dataset</w>
       <w>defaultdict</w>
       <w>ffill</w>
+      <w>kfold</w>
+      <w>liblinear</w>
       <w>scikit</w>
       <w>xlsx</w>
     </words>
